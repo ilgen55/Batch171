@@ -1,0 +1,32 @@
+
+
+Senaryo:
+Siz bir IT Destek Yöneticisi Uzmanısınız ve işe yeni alınan çalışanlar için eposta
+hesapları oluşturma görevi ile görevlendirildiniz.
+_________________________________________________________________________
+Uygulamanızınaşağıdakiişlemleriyapmasıgerekiyor:
+1. İsim Soyisim bilgilerini almalı
+2. Çalışılan birim bilgisini almalı (pazarlama, geliştirme, muhasebe)
+3. Aşağıdaki sözdizimine ait bir eposta oluşturmalı:
+ilkisim.soyisim@birim.sirketadi.com
+4. Rastgele bir şifre belirlemeli
+5. Şifre değiştirme seçeneği sunmalı
+6. Alternatif eposta adresi ekleme seçeneği sunmalı
+7. Kayıt tamamlandıktan sonra ekranda çalışanların son durumlarını,
+
+ublic class Eposta {
+public static void main(String[] args) {
+// Constructor: İsim ve soyisim bilgilerini al
+// Çalışılan birim bilgisini al
+// Şifre oluştur
+// Eposta oluştur
+// Alternatif eposta ekle
+// Şifre değiştir
+// Son durum ekranı oluştur
+}
+}
+public class EpostaYonetimi {
+public static void main(String[] args) {
+// Constructor’ı çağır
+// Son durum ekranını çağır
+}

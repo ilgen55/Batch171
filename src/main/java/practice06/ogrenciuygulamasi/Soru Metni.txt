@@ -1,0 +1,53 @@
+
+
+
+1
+
+2
+
+Proje1
+ÖğrenciVeritabanıUygulaması
+Senaryo:
+SizbirüniversiteninVeritabanıYöneticisisinizveöğrencilerinderskaydıveders
+ücretiödemeleriniyönetmekiçinbiruygulamageliştirmenizgerekiyor.
+_________________________________________________________________________
+Uygulamanızınaşağıdakiişlemleriyapmasıgerekiyor:
+●Kullanıcıya,veritabanınakaçöğrencininekleneceğinisormalı
+●Kullanıcıheröğrenciiçinisim,soyisimveyıl(kaçıncısınıf)seçeneği
+bilgilerinigirmeli
+●Heröğrenci5hanelisayısalveeşsizbiröğrencinumarasınasahip
+olmalıvebunumaranınilksayısı,öğrencininyılbilgisiolmalı
+●Öğrencileraşağıdakiderslerdenistediklerinekayıtolabilirler:
+○Tarih101
+○Matematik103
+○İngilizce105
+○Kimya107
+○BilgisayarBilimleri109
+●Herdersiçinkayıtücreti600TLolmalı
+●Öğrencilerdersleriseçtiktensonratoplamkursücretinigörebilmelive
+kaçTLödemeyapacağınıyazabilmeli
+●Kayıttamamlandıktansonraekrandaöğrencilerinsondurumlarını,
+aşağıdakibilgileriiçerecekşekildegörmeliyiz:
+○İsimSoyisim:
+○Öğrencino:
+○Yıl:
+○Kayıtolunandersler:
+kalan borc
+
+public class Ogrenci {
+public static void main(String[] args) {
+// Variable’lar
+// Constructor: İsim, soyisim ve yıl bilgisini al
+// Öğrenci no oluştur
+// Derse kayıt ol
+// Toplam borcu görüntüle
+// Öğrenciye ne kadar ödeme yapacağını sor ve hesapla
+// Kayıttan sonra ekranda son durumu göster
+}
+}
+public class OgrenciVeritabani {
+public static void main(String[] args) {
+// Kaç öğrenci eklemek istediğini sor
+// n sayısında yeni öğrenci oluştur
+}
+

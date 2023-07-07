@@ -1,0 +1,36 @@
+
+
+QuizUygulaması
+Senaryo:
+Siz bir Veritabanı Uzmanısınız ve çalıştığınız kurumda öğrencileri bir dersle ilgili
+online quiz yapıp değerlendiren bir uygulama oluşturmanız isteniyor.
+_________________________________________________________________________
+Uygulamanızınaşağıdakiişlemleriyapmasıgerekiyor:
+1.Soruhavuzundakisorularıöğrenciyesormalıvecevapşıkkını
+öğrencidenalmalı.
+2.Alınancevabaanındadönütvermeli(Doğru/Yanlışgibi).
+3.Quizbittiktensonraöğrencininquizileilgilisondurumunuaşağıdaki
+bilgileriiçerecekşekildegöstermeli:
+○Toplam Soru Sayısı :
+○Doğru Cevap Sayısı :
+○Yanlış Cevap Sayısı :
+○Başarı Yüzdesi :
+○Başarı yüzdesiyle ilgili şu dönütler verilmeli;
+■80 ve üstü olanlara “Çok iyi”,
+■40-80 arası olanlara “Orta”,
+■40’tan aşağı olanlara “Çok kötü”
+ClassTaslakları
+public class Quiz {
+public static void main(String[] args) {
+//
+}
+}
+public class Sorular {
+public static void main(String[] args) {
+//
+}
+}
+public class QuizRunner {
+public static void main(String[] args) {
+//
+}

@@ -4,7 +4,8 @@ public class SoruBankasi {
 
     public static void main(String[] args) {
 
-        /*int x = 12;
+        /*
+        int x = 12;
         int y = 13;
         Aşağıdakilerden hangileri yukarıdaki ile aynı anlamdadır?
 
@@ -26,8 +27,11 @@ public class SoruBankasi {
        C) 1
        D) Hiçbiri
 
+
       3.
        //int data typeini short data type ina ceviriniz
+       int = 5;
+       short =5
 
        A) 2.5
       B) 2.0
@@ -82,6 +86,10 @@ Console'a Ali9 yazdır
 
 
          */
+        //int data typeini short data type ina ceviriniz
+        int a = 5;
+        short b = (short)a;
+
 
     }
 }
